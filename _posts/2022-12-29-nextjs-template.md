@@ -137,8 +137,9 @@ Because this is a Next.js template, it works perfectly when deployed to [Vercel]
 Look for these files in your project directory:
 
 - `.env.local.template`
-- `.env.development.local.template`
-- `.env.production.local.template`
+- `.env.dev.local.template`
+- `.env.prod.local.template`
+- `.env.test.local.template`
 
 Copy each of these files and remove the `template` extension from the copy.
 
@@ -182,6 +183,10 @@ npm run release
 **TODO**
 
 ### Environment Variables
+
+- next issue
+- AWS vs Vercel
+- next_public
 
 {: .notice--primary}
 
