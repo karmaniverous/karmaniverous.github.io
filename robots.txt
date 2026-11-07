@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Every project docs site under docs.karmanivero.us/<repo>/ is listed here.
+# Referencing it from this host lets crawlers accept the cross-host sitemaps.
+Sitemap: https://karmanivero.us/sitemap-index.xml
